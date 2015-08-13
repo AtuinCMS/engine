@@ -21,7 +21,8 @@
     "atuin/apps":"*",
     "atuin/config":"*",
     "atuin/installation":"*",
-    "atuin/skeleton":"*"
+    "atuin/skeleton":"*",
+    "league/flysystem": "*"
   },
   "autoload": {
     "psr-4": {
