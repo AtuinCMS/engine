@@ -66,7 +66,8 @@ class GridView extends \kartik\grid\GridView
 
         $actionColumn = NULL;
 
-        if (array_key_exists('class', end($this->columns)) && end($this->columns)['class'] == 'yii\grid\ActionColumn') {
+        if (is_array(end($this->columns)) && array_key_exists('class', end($this->columns)) 
+            && end($this->columns)['class'] == 'yii\grid\ActionColumn') {
             $actionColumn = array_pop($this->columns);
         }
 

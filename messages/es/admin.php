@@ -23,7 +23,12 @@ return [
     'Create page' => 'Crear página',
     'Create Page' => 'Crear Página',
     "Static page doesn't exist." => 'La página estática no existe.',
-    'View static page' => 'Ver página estática'
+    'View static page' => 'Ver página estática',
 
+    
+    /**
+     * App Pages Admin Translations
+     */
+    'Add new App' => 'Añadir nueva App',
 
 ];
