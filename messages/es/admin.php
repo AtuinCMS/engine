@@ -14,6 +14,8 @@ return [
     'Last Update' => 'Última actualización',
     'Author' => 'Autor',
     'Last Editor' => 'Último Editor',
+    'Install' => 'Instalar',
+    'Bad call method' => 'Método de llamada erróneo',
 
     /**
      * Static Pages Admin Translations
@@ -30,5 +32,9 @@ return [
      * App Pages Admin Translations
      */
     'Add new App' => 'Añadir nueva App',
+    'Are you sure you want to install this App?' => '¿Está seguro de que desea installar esta App?',
+    "Selected App doesn't exist in the market." => 'La App seleccionada no existe en el Market.',
+
+
 
 ];
