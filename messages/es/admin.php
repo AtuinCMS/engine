@@ -34,6 +34,8 @@ return [
     'Add new App' => 'Añadir nueva App',
     'Are you sure you want to install this App?' => '¿Está seguro de que desea installar esta App?',
     "Selected App doesn't exist in the market." => 'La App seleccionada no existe en el Market.',
+    'Are you sure to update this App?' => '¿Está seguro de querer actualizar este App?',
+    'Are you sure to delete this App?' => '¿Está seguro de querer borrar este App?',
 
 
 
