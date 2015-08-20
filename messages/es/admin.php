@@ -36,6 +36,7 @@ return [
     "Selected App doesn't exist in the market." => 'La App seleccionada no existe en el Market.',
     'Are you sure to update this App?' => '¿Está seguro de querer actualizar este App?',
     'Are you sure to delete this App?' => '¿Está seguro de querer borrar este App?',
+    'App is not located in the market.' => 'La App no está dada de alta en el Market.',
 
 
 
